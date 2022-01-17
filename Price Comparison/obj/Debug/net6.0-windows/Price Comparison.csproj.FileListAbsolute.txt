@@ -1,0 +1,23 @@
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\Price Comparison.exe
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\Price Comparison.deps.json
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\Price Comparison.runtimeconfig.json
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\Price Comparison.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\ref\Price Comparison.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\Price Comparison.pdb
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.csproj.AssemblyReference.cache
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.AssemblyInfoInputs.cache
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.AssemblyInfo.cs
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.csproj.CoreCompileInputs.cache
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\ref\Price Comparison.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.pdb
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.genruntimeconfig.cache
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price_Comparison.Main.resources
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.csproj.GenerateResource.cache
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price Comparison.csproj.CopyComplete
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\a.karpenkov\Desktop\Price Comparison\Price Comparison\obj\Debug\net6.0-windows\Price_Comparison.CompareWindow.resources
